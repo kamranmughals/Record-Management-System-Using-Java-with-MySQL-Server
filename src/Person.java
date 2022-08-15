@@ -12,9 +12,9 @@ import java.util.Scanner;
 
 public class Person {
 	
-	String url = "jdbc:mysql://localhost:3306/JavaSql";
-	String user = "root";
-	String password = "302716";
+	String url = "jdbc:mysql://Yourlocalhost/yourDatabase";
+	String user = "youUser";
+	String password = "yourPassword";
 	//database connection
 	Connection conn;
 	//global Object for later use
